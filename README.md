@@ -45,13 +45,14 @@ App design has been made keeping in mind google material design. Google material
 ## Service
 A service is run in the background namely MusicService. It is  responsible for playing the background music within the app. MediaPlayer class is used to play the music file in background as a loop. It should be made sure that the service has been stopped via intent when the app is destroyed. The service can be toggled on and off from Settings.
 
-
-| Congratulations      | Out of life      | Times up      |
-|------------|-------------|------------|
-| <img src="/../master/congratulations.jpg" width="200">  | <img src="/../master/out_of_lives.jpg" width="200"> | <img src="/../master/timesup.jpg" width="200"> |
-
 ## Dialogs
 Dialogs has been used with respective sound effects in the app at places like, 
 - When players life reaches 0
 - Time gets up
 - Stage gets completed
+
+| Congratulations      | Out of life      | Times up      |
+|------------|-------------|------------|
+| <img src="/../master/congratulations.jpg" width="200">  | <img src="/../master/out_of_lives.jpg" width="200"> | <img src="/../master/timesup.jpg" width="200"> |
+
+This project is made for fun, please star this project if you like it, or you can also send your valuable feedbacks on my email aaleenmirza110@gmail.com
